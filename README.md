@@ -1,2 +1,5 @@
 # udisc-dataviz
-Creates data visualizations for UDisc .csv exports. Visuals include [Sankey Diagram]
+Creates data visualizations for UDisc .csv exports.
+
+## Visuals
+- Sankey Diagram showing flow of cumulative score per hole
